@@ -1,6 +1,6 @@
 # Tareas
 
-Indicaciones:
+##Indicaciones:
 1. Desplegar en el directorio de preferencia.
 2. Configurar los accesos a la base de datos en el archivo .env.
 3. Ejecutar las migraciones con php artisan make:migration.
